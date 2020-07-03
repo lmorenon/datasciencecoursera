@@ -1,0 +1,32 @@
+---
+title: "Hello World"
+author: "Leonardo Moreno Naranjo"
+date: "3/7/2020"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+In this document, i will show you many formats for "Hello World": 
+
+> - *Hello World*
+ - **Hello World**
+ - [Hello World]()
+
+```{r}
+print("Hello World")
+```
+
+## Final
+
+This task was developed by Leonardo Moreno Naranjo
+
+Thanks for review me!
+
+
+
