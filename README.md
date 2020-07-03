@@ -1,2 +1,2 @@
 # datasciencecoursera
-This task was development by Leonardo Moreno Naranjo
+This task was developed by Leonardo Moreno Naranjo
